@@ -3,5 +3,5 @@
  main()
  {
  printf("Hello world");
- }
-mmmmmmmmmmmmmmmmmmmmmmmmmmmlwdlqdqwl
+printf("Good Bye!");
+}
